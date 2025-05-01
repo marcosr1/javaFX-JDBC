@@ -1,6 +1,5 @@
 package gui.util;
 
-import java.lang.foreign.Linker.Option;
 import java.util.Optional;
 
 import javafx.scene.control.Alert;

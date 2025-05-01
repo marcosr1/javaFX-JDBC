@@ -7,8 +7,6 @@ import java.util.List;
 import java.util.Optional;
 import java.util.ResourceBundle;
 
-import javax.swing.event.TableColumnModelListener;
-
 import application.Main;
 import db.DbIntegrityException;
 import gui.listeners.DataChangeListener;
